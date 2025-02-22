@@ -1,0 +1,491 @@
+{
+  "basics": {
+    "title": "CV",
+    "name": "HASSAN ADRAOU",
+    "label": "Redactor técnico y profesor de español con más de 6 años de experiencia laboral en diferentes áreas.",
+    "image": "/me.png",
+    "email": "adraouhassan@gmail.com",
+    "phone": "+212606133135",
+    "url": " ",
+    "summary": "Después de años de experiencia en transformación digital, me dedico a la formación, la redacción, el diseño y la producción de información visual y oral. Soy capaz de desempeñarme como redactor técnico, intérprete y traductor en árabe, español y francés. Con conocimientos avanzados en herramientas como Indesign, Illustrator, Photoshop y Microsoft 365®, me considero proactivo, creativo. Manejo Gitbook y Notion para la redacción técnica y uso Jira y Trello en la gestión ágil de proyectos. Integro la inteligencia artificial en mis tareas y proyectos educativos, técnicos y científicos, utilizando herramientas como Copilot, ChatGPT y Gemini. Además, cuento con una sólida red de profesionales de TI en Marruecos y España.",
+    "location": {
+      "address": "",
+      "postalCode": "93150",
+      "city": "Calle Banadoura Nº 6, Martil",
+      "countryCode": "MA",
+      "region": "Marruecos"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "adraou-hassan",
+        "url": "https://linkedin.com/in/adraou-hassan"
+      },
+      {
+        "network": "X",
+        "username": "adraouhassan",
+        "url": "https://x.com/adraouhassan"
+      },
+      {
+        "network": "GitHub",
+        "username": "Adraouha",
+        "url": "https://github.com/Adraouha"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "NTT Data",
+      "position": "Centers Specialist",
+      "url": "https://www.linkedin.com/company/ntt-data-morocco",
+      "startDate": "2024-07-10",
+      "endDate": null,
+      "summary": "Formación y desarrollo de habilidades comunicativas orales y textuales en el idioma español.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "STUDIO MORETTO GROUP",
+      "position": "Jefe de Proyecto",
+      "url": "https://www.smglanguages.com/",
+      "startDate": "2024-02-01",
+      "endDate": "2024-06-01",
+      "summary": "Supervisaba tareas de licitaciones, gestionaba expedientes y relaciones con clientes, además de explorar nuevas oportunidades comerciales.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "STUDIO MORETTO GROUP",
+      "position": "Traductor y Asistente de PM",
+      "url": "https://www.smglanguages.com/",
+      "startDate": "2023-07-01",
+      "endDate": "2024-01-31",
+      "summary": "Gestionaba servicios de interpretación, contrataba intérpretes y elaboraba documentación y comunicaciones para clientes públicos.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Universidad TECH",
+      "position": "Traductor, Redactor y Diseñador",
+      "url": "https://www.techtitute.com/",
+      "startDate": "2023-05-01",
+      "endDate": "2023-07-31",
+      "summary": "Traducía contenido del español al francés, y editaba recursos educativos utilizando herramientas como Indesign, Photoshop, StoryLine y Word.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "GRUPO AVALON (Baltia Transformation Digitale)",
+      "position": "Intérprete, Traductor y Redactor Técnico",
+      "url": "https://www.linkedin.com/company/grupoavalon/",
+      "startDate": "2020-07-10",
+      "endDate": "2022-12-31",
+      "summary": "Impartía clases de español, realizaba interpretaciones en reuniones y traducía y redactaba documentación técnica y funcional.",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Asociación Tamrabet de Desarrollo Local - Chefchaouen",
+      "position": "Secretario General",
+      "url": "https://www.facebook.com/tamrabetasoc/",
+      "startDate": "2019-10-01",
+      "endDate":null,
+      "summary": "Lideraba iniciativas para el desarrollo sostenible y la mejora de la calidad de vida en la comunidad, coordinando proyectos y gestionando recursos.",
+      "highlights": [
+        "Started the volunteer"
+      ]
+    },
+    {
+      "organization": "Fundación Santa María de la Real",
+      "position": "Voluntariado Digital",
+      "url": "https://santamarialareal.org/",
+      "startDate": "2023-02-01",
+      "endDate": "2024-02-01",
+      "summary": "Creaba contenidos educativos para la plataforma de la fundación y aprendía a montar y gestionar pequeños negocios y startups.",
+      "highlights": [
+        "Started the volunteer"
+      ]
+    },
+    {
+      "organization": "Grupo de Investigación en la Cultura de los Países Hispanohablantes - GICPH",
+      "position": "Traductor y Redactor",
+      "url": "https://www.youtube.com/@gicphfod4781",
+      "startDate": "2016-10-15",
+      "endDate": "2018-06-01",
+      "summary": "Traducía y redactaba conferencias, artículos y videos académicos, contribuyendo a la difusión del conocimiento cultural e investigativo.",
+      "highlights": [
+        "Started the volunteer"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Institut Supérieur de Génie Informatique (Sup'ISI )",
+    "url": "https://supingenierie.com/",
+    "area": "Desarrollo de Software",
+    "studyType": "Bachelor",
+    "startDate": "2024-09-15",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "Desarrollo de Software"
+    ]  },
+
+    {
+      "institution": "Instituto Cervantes, Tetuán",
+      "url": "https://www.cervantes.es",
+      "area": "Español como Lengua Extranjera",
+      "studyType": "DELE C1",
+      "startDate": "2020-01-01",
+      "endDate": "2021-01-01",
+      "score": "N/A",
+      "courses": []
+  },
+  {
+      "institution": "Instituto especializado en offshoring de profesiones, Tetuán",
+      "url": "https://www.ismo.ma/",
+      "area": "Técnico de teleconsulta",
+      "studyType": "Certificate",
+      "startDate": "2015-01-01",
+      "endDate": "2016-01-01",
+      "score": "N/A",
+      "courses": []
+  },
+  {
+      "institution": "Universidad Abdel Malek Essaadi, Tetuán",
+      "url": "https://www.uae.ma",
+      "area": "Estudios de Educación",
+      "studyType": "Licenciatura",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
+      "score": "N/A",
+      "courses": []
+  },
+  {
+      "institution": "Instituto Jaber Ibn Hayane, Tetuán",
+      "url": "https://jaberbnouhayan.blogspot.com/",
+      "area": "Economía y Administración de Empresas",
+      "studyType": "Bachillerato",
+      "startDate": "2010-01-01",
+      "endDate": "2012-01-01",
+      "score": "N/A",
+      "courses": []
+  }
+  
+],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "publications": [{
+    "name": "Publication",
+    "publisher": "Company",
+    "releaseDate": "2014-10-01",
+    "url": "https://publication.com",
+    "summary": "Description…"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Microsoft 365",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermedio",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Trados",
+      "level": "Avanzado",
+      "keywords": [
+        "Traducción asistida", "Gestion de memoria de traducción", "Gestion de memoria de traducción"
+      ]
+    },
+    {
+      "name": "Omega T",
+      "level": "Avanzado",
+      "keywords": [
+        "Traducción asistida", "Gestion de memoria de traducción"
+      ]
+    },
+    {
+      "name": "GitBook",
+      "level": "Avanzado",
+      "keywords": [
+        "Redacción de proyectos", "MarkDown", "Gestión de proyectos"
+      ]
+    },  {
+      "name": "Notion",
+      "level": "Avanzado",
+      "keywords": [
+        "Redacción de documentación", "MarkDown", "Creación de contenido textual"
+      ]
+    },
+    {
+      "name": "Docusaurus",
+      "level": "Intermedio",
+      "keywords": [
+        "Redacción de proyectos", "MarkDown", "Creación de contenido textual"
+      ]
+    }, {
+      "name": "Jira",
+      "level": "Intermedio",
+      "keywords": [
+        "Gestión de proyectos", "Agile", "Scrum"
+      ]
+    },
+    {
+      "name": "Trello",
+      "level": "Intermedio",
+      "keywords": [
+        "Gestión de proyectos", "Agile", "Scrum"
+      ]
+    },
+    {
+      "name": "Indesign",
+      "level": "Avanzado",
+      "keywords": [
+        "Diseño gráfico", "Maquetación", "Publicación"
+      ]
+    },
+    {
+      "name": "Illustrator",
+      "level": "Avanzado",
+      "keywords": [
+        "Diseño gráfico", "Ilustración", "Vectorización"
+      ]
+    },
+    {
+      "name": "Photoshop",
+      "level": "Avanzado",
+      "keywords": [
+        "Diseño gráfico", "Edición de imágenes", "Retoque fotográfico"
+      ]
+    },
+    {
+      "name": "StoryLine",
+      "level": "Intermedio",
+      "keywords": [
+        "Diseño de cursos", "E-learning", "Interactividad"
+      ]
+    },
+    {
+      "name": "Word",
+      "level": "Avanzado",
+      "keywords": [
+        "Procesador de textos", "Redacción", "Edición"
+      ]
+    },
+    {
+      "name": "Excel",
+      "level": "Intermedio",
+      "keywords": [
+        "Hojas de cálculo", "Análisis de datos", "Gráficos"
+      ]
+    },
+    {
+      "name": "PowerPoint",
+      "level": "Intermedio",
+      "keywords": [
+        "Presentaciones", "Diseño de diapositivas", "Comunicación visual"
+      ]
+    },
+    {
+      "name": "Outlook",
+      "level": "Intermedio",
+      "keywords": [
+        "Correo electrónico", "Gestión de tareas", "Calendario"
+      ]
+    },
+    {
+      "name": "Copilot",
+      "level": "Intermedio",
+      "keywords": [
+        "Inteligencia artificial", "Programación", "Desarrollo de software"
+      ] }
+  
+  ],
+  "languages": [
+    {
+      "language": "Árabe",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "Español",
+      "fluency": "Nivel alto - C1"
+    },
+    {
+      "language": "Francés",
+      "fluency": "Nivel avanzado - B2"
+    },
+    {
+      "language": "Inglés",
+      "fluency": "Intermedio - B1"
+    }
+  ],
+  "interests": [{
+    "name": "Wildlife",
+    "keywords": [
+      "Ferrets",
+      "Unicorns"
+    ]
+  }],
+  "references": [{
+    "name": "Jane Doe",
+    "reference": "Reference…"
+  }],
+  "projects": [
+    {
+      "name": "Gestion del proyecto DGEF",
+      "isActive": false,
+      "description": "Gestionar misiones y servicios de interpretación solicitados por OFII.",
+      "highlights": [
+        "Contactar los intérpretes",
+        "Preparar documentación",
+        "Gestionar comunicaciones con los clientes",
+        "Preparar informes mensuales",
+        "Verificar facturas"
+      
+      ],
+      "url": "https://www.ofii.fr"
+    },
+    {
+      "name": "Departamento de Licitaciones - SMG",
+      "isActive": false,
+      "description": "Preparar y presentar expedientes de licitación pública y solicitudes de clientes.",
+      "highlights": [
+        "Elaborar las ofertas técnicas y económicas.",
+        "Gestionar la relación con los clientes.",
+        "Buscar nuevas oportunidades comerciales.",
+        "Coordinar con equipos de trabajo."],
+      "url": "https://www.smglanguages.com"
+    
+    },
+    {
+      "name": "Proyecto MIUN",
+      "isActive": false,
+      "description": "Redacción del manual de uso de la intranet de MIUN y documentación de integración del módulo 107 en el proyecto.",
+      "highlights": [
+        "Redacción técnica",
+        "Documentación funcional"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Proyecto IGME",
+      "isActive": true,
+      "description": "Documentación técnica de métodos de pago de los productos IGME.",
+      "highlights": [
+        "Traducción técnica del español al francés",
+        "Documentación de los procesos de pago"
+      ],
+      "url": ""
+    },
+    {
+      "name": "Proyecto CCVO",
+      "isActive": false,
+      "description": "Interpretación de reuniones entre padres de alumnos inmigrantes y los centros educativos de la Generalitat de Catalunya.",
+      "highlights": [
+        "Interpretación de reuniones",
+        "Facilitación de la comunicación"
+      ]
+    },
+    {
+      "name": "Traducción e interpretación",
+      "isActive": false,
+      "description": "Trabajar como intérprete y traductor de reuniones y eventos en Grupo Avalon y Studio Moretto Group",
+      "highlights": [
+        "Interpretación de reuniones",
+        "Traducción español <> francés",
+        "Traducción español <> árabe"
+      ]
+    },
+    {
+      "name": "Comunicación y clases de español",
+      "isActive": true,
+      "description": "Formaciones y cursos de comunicación de español en NTT Data y Grupo Avalon.",
+      "highlights": [
+        "Clases de español",
+        "Facilitación del aprendizaje",
+        "Comunicación efectiva en español"
+      ]
+    }, {
+      "name": "Traducción científica",
+      "isActive": false,
+      "description": "Traductor del español al francés del material educativo de la Universidad TECH.",
+      "highlights": [
+        "Traducción técnica",
+        "Edición de recursos didácticos",
+        "Diseño de materiales educativos"
+      ]
+    }
+  ]
+}
