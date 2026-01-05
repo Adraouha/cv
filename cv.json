@@ -415,7 +415,8 @@
         "Verificar facturas"
       
       ],
-      "url": "https://www.ofii.fr"
+      "url": "https://www.ofii.fr",
+      "github": ""
     },
     {
       "name": "Departamento de Licitaciones - SMG",
@@ -426,7 +427,8 @@
         "Gestionar la relación con los clientes.",
         "Buscar nuevas oportunidades comerciales.",
         "Coordinar con equipos de trabajo."],
-      "url": "https://www.smglanguages.com"
+      "url": "https://www.smglanguages.com",
+      "github": ""
     
     },
     {
@@ -437,7 +439,8 @@
         "Redacción técnica",
         "Documentación funcional"
       ],
-      "url": ""
+      "url": "",
+      "github": ""
     },
     {
       "name": "Proyecto IGME",
@@ -447,7 +450,8 @@
         "Traducción técnica del español al francés",
         "Documentación de los procesos de pago"
       ],
-      "url": ""
+      "url": "",
+      "github": ""
     },
     {
       "name": "Proyecto CCVO",
@@ -456,7 +460,8 @@
       "highlights": [
         "Interpretación de reuniones",
         "Facilitación de la comunicación"
-      ]
+      ],
+      "github": ""
     },
     {
       "name": "Traducción e interpretación",
@@ -466,7 +471,8 @@
         "Interpretación de reuniones",
         "Traducción español <> francés",
         "Traducción español <> árabe"
-      ]
+      ],
+      "github": ""
     },
     {
       "name": "Comunicación y clases de español",
@@ -476,7 +482,8 @@
         "Clases de español",
         "Facilitación del aprendizaje",
         "Comunicación efectiva en español"
-      ]
+      ],
+      "github": ""
     }, {
       "name": "Traducción científica",
       "isActive": false,
@@ -485,7 +492,8 @@
         "Traducción técnica",
         "Edición de recursos didácticos",
         "Diseño de materiales educativos"
-      ]
+      ],
+      "github": ""
     }
   ]
 }
