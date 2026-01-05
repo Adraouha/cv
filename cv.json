@@ -2,12 +2,12 @@
   "basics": {
     "title": "CV",
     "name": "HASSAN ADRAOU",
-    "label": "Redactor técnico y profesor de español con más de 6 años de experiencia laboral en diferentes áreas.",
+    "label": "Redactor técnico, traductor e intérprete multilingüe y profesor de idiomas con más de seis años de experiencia.",
     "image": "/me.png",
     "email": "adraouhassan@gmail.com",
     "phone": "+34 614 47 35 24",
     "url": " ",
-    "summary": "Después de años de experiencia en transformación digital, me dedico a la formación, la redacción, el diseño y la producción de información visual y oral. Soy capaz de desempeñarme como redactor técnico, intérprete y traductor en árabe, español y francés. Con conocimientos avanzados en herramientas como Indesign, Illustrator, Photoshop y Microsoft 365®, me considero proactivo, creativo. Manejo Gitbook y Notion para la redacción técnica y uso Jira y Trello en la gestión ágil de proyectos. Integro la inteligencia artificial en mis tareas y proyectos educativos, técnicos y científicos, utilizando herramientas como Copilot, ChatGPT y Gemini. Además, cuento con una sólida red de profesionales de TI en Marruecos y España.",
+    "summary": "Especialista en transformación digital y creación de conocimiento, con enfoque en formación, redacción técnica y diseño de contenidos. Multilingüe en árabe, español y francés, integro inteligencia artificial en proyectos educativos, técnicos y científicos. Manejo herramientas avanzadas de diseño, documentación y gestión ágil, y colaboro con una red internacional de profesionales de TI entre Marruecos y España.",
     "location": {
       "address": "Plaça Joan de Amades nº4 Appt bajo 1",
       "postalCode": "08500",
@@ -96,7 +96,7 @@
       "position": "Secretario General",
       "url": "https://www.facebook.com/tamrabetasoc/",
       "startDate": "2019-10-01",
-      "endDate":null,
+      "endDate":"2025-10-01",
       "summary": "Lideraba iniciativas para el desarrollo sostenible y la mejora de la calidad de vida en la comunidad, coordinando proyectos y gestionando recursos.",
       "highlights": [
         "Started the volunteer"
@@ -130,8 +130,8 @@
     "url": "https://supingenierie.com/",
     "area": "Desarrollo de Software",
     "studyType": "Bachelor",
-    "startDate": "2024-09-15",
-    "endDate": null,
+    "startDate": "2023-09-15",
+    "endDate": "2025-10-30",
     "score": "4.0",
     "courses": [
       "Desarrollo de Software"
