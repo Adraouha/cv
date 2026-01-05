@@ -8,8 +8,8 @@ import { projects } from "@cv"
 <Section title="Proyectos">
   <ul>
     {
-      projects.map(
-        ({ url, description, highlights, name, isActive, github }) => {
+      projects.map((project: any) => {
+          const { url = '', description = '', highlights = [], name, isActive = false, github } = project || {}
           return (
             <li>
               <article>
@@ -33,7 +33,7 @@ import { projects } from "@cv"
                   <p>{description}</p>
                 </header>
                 <footer>
-                  {highlights.map((highlight) => {
+                  {highlights.map((highlight: string) => {
                     return <span>{highlight}</span>
                   })}
                 </footer>
