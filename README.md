@@ -98,5 +98,32 @@ npm run dev
 
 [MIT](LICENSE.txt) - Creado por [**HASSAN ADRAOU**]().
 
+---
+
+## 📦 Despliegue a GitHub Pages ✅
+
+Este repo incluye un workflow de GitHub Actions que compila el sitio y despliega la carpeta `dist/` a GitHub Pages cuando haces push a `main`.
+
+Pasos rápidos:
+
+1. Asegúrate de que el repositorio está en GitHub y la rama principal se llama `main`.
+2. Push de tus cambios a `main` (el workflow se ejecutará automáticamente):
+
+```bash
+git add .
+git commit -m "Preparar despliegue"
+git push origin main
+```
+
+3. El workflow `Build and deploy to GitHub Pages` hará `pnpm install` y `pnpm run build`, subiendo `dist/` a Pages.
+
+Notas:
+- Si quieres que el sitio se sirva en `https://<usuario>.github.io/<repo>/`, no necesitas nada más: el workflow ajusta `ASTRO_BASE` automáticamente para que los assets usen el path `/repo/`.
+- Para una "user page" (`username.github.io`) lo habitual es usar la rama `gh-pages` o la rama `deploy` como configuración, pero la acción oficial también puede publicar en esa configuración si la ajustas en Settings → Pages.
+
+Si quieres, puedo (opcional):
+- activar la publicación automática en tu repo (si me das permiso/branch), o
+- añadir un script `deploy` local usando `gh-pages` para publicar manualmente.
+
 
 
